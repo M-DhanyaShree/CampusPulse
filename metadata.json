@@ -1,0 +1,8 @@
+{
+  "name": "CampusPulse AI",
+  "description": "Intelligent Campus Complaint Classification and Opinion Mining Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
